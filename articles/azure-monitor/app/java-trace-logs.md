@@ -76,19 +76,19 @@ Then refresh the project dependencies, to get the binaries downloaded.
 
 ```
 
-    compile group: 'com.microsoft.azure', name: 'applicationinsights-logging-logback', version: '2.0.+'
+    compile group: 'com.microsoft.azure', name: 'applicationinsights-logging-logback', version: '2.+'
 ```
 
 **Log4J v2.0**
 
 ```
-    compile group: 'com.microsoft.azure', name: 'applicationinsights-logging-log4j2', version: '2.0.+'
+    compile group: 'com.microsoft.azure', name: 'applicationinsights-logging-log4j2', version: '2.+'
 ```
 
 **Log4J v1.2**
 
 ```
-    compile group: 'com.microsoft.azure', name: 'applicationinsights-logging-log4j1_2', version: '2.0.+'
+    compile group: 'com.microsoft.azure', name: 'applicationinsights-logging-log4j1_2', version: '2.+'
 ```
 
 #### Otherwise ...
